@@ -7,6 +7,9 @@ Exp.2 (https://deepak-sinha.github.io/Experiments/2) : Firecrackers
 
 Exp.3 (https://deepak-sinha.github.io/Experiments/3) : Wave-structure
 
-Exp.4 (https://deepak-sinha.github.io/Experiments/4) : Fireeffects
+Exp.4 (https://deepak-sinha.github.io/Experiments/4) : Fireffects
 
 Exp.5 (https://deepak-sinha.github.io/Experiments/5) : Phyllotaxis
+
+Exp.6 (https://deepak-sinha.github.io/Experiments/6) : Snake Game
+
