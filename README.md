@@ -19,3 +19,24 @@ Exp.8 (https://deepak-sinha.github.io/Experiments/8) : Fire effect
 
 Exp.10 (https://deepak-sinha.github.io/Experiments/10) : 3D-torus
 
+Exp.11 (https://deepak-sinha.github.io/Experiments/11) : 3D-Room
+
+Exp.12 (https://deepak-sinha.github.io/Experiments/12) : Spirograph
+
+Exp.13 (https://deepak-sinha.github.io/Experiments/13) : 3D-Cube
+
+Exp.14 (https://deepak-sinha.github.io/Experiments/14) : Wave-illusion
+
+Exp.15 (https://deepak-sinha.github.io/Experiments/15) : Spirograph
+
+Exp.16 (https://deepak-sinha.github.io/Experiments/16) : Line-pattern
+
+Exp.17 (https://deepak-sinha.github.io/Experiments/17) : Gravitaion-force
+
+Exp.18 (https://deepak-sinha.github.io/Experiments/18) : Random explosion
+
+Exp.19 (https://deepak-sinha.github.io/Experiments/19) : Circle-pattern
+
+Exp.20 (https://deepak-sinha.github.io/Experiments/20) : Deletable-objects
+
+Exp.21 (https://deepak-sinha.github.io/Experiments/21) : Barnsley-fern
