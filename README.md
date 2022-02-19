@@ -17,6 +17,8 @@ Exp.7 (https://deepak-sinha.github.io/Experiments/7) : Starlight effect
 
 Exp.8 (https://deepak-sinha.github.io/Experiments/8) : Fire effect
 
+Exp.9 (https://deepak-sinha.github.io/Experiments/9) : Torch
+
 Exp.10 (https://deepak-sinha.github.io/Experiments/10) : 3D-torus
 
 Exp.11 (https://deepak-sinha.github.io/Experiments/11) : 3D-Room
