@@ -7,7 +7,7 @@ Exp.2 (https://deepak-sinha.github.io/Experiments/2) : Firecrackers
 
 Exp.3 (https://deepak-sinha.github.io/Experiments/3) : Wave-structure
 
-Exp.4 (https://deepak-sinha.github.io/Experiments/) : Fireffects
+Exp.4 (https://deepak-sinha.github.io/Experiments/4) : Water-ripple
 
 Exp.5 (https://deepak-sinha.github.io/Experiments/5) : Phyllotaxis
 
